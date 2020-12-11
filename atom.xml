@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://teatea.github.io</id>
+    <id>https://loonyteatea.github.io</id>
     <title>Teatea</title>
-    <updated>2020-12-09T12:16:52.636Z</updated>
+    <updated>2020-12-11T03:18:58.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://teatea.github.io"/>
-    <link rel="self" href="https://teatea.github.io/atom.xml"/>
+    <link rel="alternate" href="https://loonyteatea.github.io"/>
+    <link rel="self" href="https://loonyteatea.github.io/atom.xml"/>
     <subtitle>保持学习</subtitle>
-    <logo>https://teatea.github.io/images/avatar.png</logo>
-    <icon>https://teatea.github.io/favicon.ico</icon>
+    <logo>https://loonyteatea.github.io/images/avatar.png</logo>
+    <icon>https://loonyteatea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Teatea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://teatea.github.io/post/hello-gridea/</id>
-        <link href="https://teatea.github.io/post/hello-gridea/">
+        <id>https://loonyteatea.github.io/post/hello-gridea/</id>
+        <link href="https://loonyteatea.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
